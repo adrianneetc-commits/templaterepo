@@ -1,4 +1,4 @@
-# Dashboard-Database
+# Template Repo
 
 Dashboard Dashabase File Viewer: MAIN
-	- Page URL: https://adrianneetc-commits.github.io/Dashboard-Database/
+	- Page URL: https://adrianneetc-commits.github.io/templaterepo/
