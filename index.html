@@ -127,7 +127,14 @@
         const data = await response.json();
 
         treeEl.innerHTML = "";
-        data.tree.forEach(item => {
+
+        // Exclude any file or directory whose path segments begin with a dot
+        const visibleItems = data.tree.filter(item => {
+          const segments = item.path.split("/");
+          return !segments.some(segment => segment.startsWith("."));
+        });
+
+        visibleItems.forEach(item => {
           const li = document.createElement("li");
           li.className = "tree-item" + (item.type === "tree" ? " folder" : "");
           li.textContent = (item.type === "tree" ? "📁 " : "📄 ") + item.path;
