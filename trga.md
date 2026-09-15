@@ -34,7 +34,7 @@ Welcome to the dashboard template repository (`dashboard-files` branch). This in
 ├── INDEX.md                  # Repository catalog and overview
 ├── SETTINGS.md               # Environment variables and configuration options
 └── MAINTENANCE.md            # Maintenance routines, upgrades, and troubleshooting
-
+`
 File Catalog
 | File / Path | Type | Purpose |
 |---|---|---|
