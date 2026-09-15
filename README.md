@@ -1,9 +1,7 @@
-# Template Rep
+# Template Repo
 
-o
+> Personal repository for coding files, documentation, guides, and automations.
 
-Dashboard Dashabase File Viewer: MAIN
-	- Page URL: https://adrianneetc-commits.github.io/templaterepo/
+⭐️ [TEMPLATE HOMEPAGE](https://adrianneetc-commits.github.io/templaterepo/)
 
-
-https://github.com/adrianneetc-commits/templaterepo/settings/pages
+ℹ️ [EDIT PAGES HOMEPAGE](https://github.com/adrianneetc-commits/templaterepo/settings/pages)
